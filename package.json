@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@azure/identity": "^4.10.0",
+    "@azure/msal-node": "^3.6.0",
+    "@llamaindex/cloud": "^4.0.13",
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "axios": "^1.9.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.17.0",
+    "openai": "^5.1.0",
+    "pdf-parse": "^1.1.1",
+    "uuid": "^11.1.0"
+  }
+}
